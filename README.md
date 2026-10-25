@@ -32,7 +32,7 @@ Make sure you have [uv](https://docs.astral.sh/uv/) and Python 3.13+ installed.
 - [x] **Lesson 1.1:** Welcome to GenAI & Agentic AI
 - [x] **Lesson 1.2:** Setting Up the AI Dev Toolkit
 - [x] **Lesson 1.3:** Your First Python Project with uv
-- [ ] **Lesson 1.4:** Talking to Python: print, input, and Comments
+- [x] **Lesson 1.4:** Talking to Python: print, input, and Comments
 - [ ] **Lesson 1.5:** Variables and Data Types
 - [ ] **Lesson 1.6:** Working with Text and Strings
 - [ ] **Lesson 1.7:** Operators and Decisions
